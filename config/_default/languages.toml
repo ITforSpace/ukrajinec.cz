@@ -1,0 +1,7 @@
+[ua]
+contentdir = "content/ua"
+weight = 1
+
+[cs]
+contentdir = "content/cs"
+weight = 2
