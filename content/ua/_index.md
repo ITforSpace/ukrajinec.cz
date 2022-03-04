@@ -30,7 +30,7 @@ sections:
       hlcolor: "#0057b7"
       color: '#fff'
       fontSize: 32
-      width: 220
+      width: 100%
     cards:
       - subtitle: Пропозиція проживання
         subtitlePosition: center
@@ -50,7 +50,7 @@ sections:
         image: images/section/keyboard.png
         color: white
         button: 
-          name: Більше пропозицій роботи
+          name: Більше роботи
           link: https://www.startupjobs.cz/nabidky/stand-with-ukraine/
           size: large
           target: _blank
@@ -65,9 +65,9 @@ sections:
       fontSize: 32
       width: 340
     cards:
-      - subtitle: Міжнародна Церква Християн Віри Євангельської П'ятидесятників у Празі
+      - subtitle: Християн Віри Євангельської у Празі
         subtitlePosition: left
-        description: "Церква, куди ходять і люди з України. Ми тут теж іноземці і можемо вам порадити."
+        description: "Церква, куди ходять і люди з України. Пастор родом з України."
         color: black
         image: images/section/root-server.png
         imagePosition: left
