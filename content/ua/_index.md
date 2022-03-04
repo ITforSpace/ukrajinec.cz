@@ -22,5 +22,61 @@ landing:
   # backgroundImage: 
   #   src: images/landscape.jpg
   #   height: 600
+
+sections:
+  - bgcolor: '#0057b7'
+    type: card
+    header: 
+      hlcolor: "#0057b7"
+      color: '#fff'
+      fontSize: 32
+      width: 220
+    cards:
+      - subtitle: Пропозиція проживання
+        subtitlePosition: center
+        image: images/section/root-server.png
+        color: #0057b7
+        button: 
+          name: Контакти
+          link: https://www.mvcr.cz/docDetail.aspx?docid=22368652&doctype=ART&chnum=2#Kontakty
+          size: large
+          target: _blank
+          color: 'white'
+          bgcolor: '#0057b7'
+      - subtitle: Робота
+        subtitlePosition: center
+        description: "Не потрібно знати чеську мову. Програмісти можуть писати на robota@itforspace.com"
+
+        image: images/section/keyboard.png
+        color: white
+        button: 
+          name: Більше пропозицій роботи
+          link: https://www.startupjobs.cz/nabidky/stand-with-ukraine/
+          size: large
+          target: _blank
+          color: 'white'
+          bgcolor: '#283593'
+  - bgcolor: '#ffd700'
+    type: card
+    header:
+      title: Духовна допомога
+      hlcolor: DarkKhaki
+      color: black
+      fontSize: 32
+      width: 340
+    cards:
+      - subtitle: Міжнародна Церква Християн Віри Євангельської П'ятидесятників у Празі
+        subtitlePosition: left
+        description: "Церква, куди ходять і люди з України. Ми тут теж іноземці і можемо вам порадити."
+        color: black
+        image: images/section/root-server.png
+        imagePosition: left
+        button: 
+          name: Контакти
+          link: https://www.kvep.cz
+          size: large
+          target: _blank
+          color: 'black'
+          bgcolor: '#ffd700'        
 ---
 
