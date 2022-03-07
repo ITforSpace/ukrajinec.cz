@@ -1,0 +1,5 @@
+[[main]]
+  identifier = "links"
+  name = "Полезные ссылки"
+  url = "topics"
+  weight = 1
