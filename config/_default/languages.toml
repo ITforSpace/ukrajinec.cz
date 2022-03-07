@@ -1,11 +1,14 @@
 [ua]
+languageName = "Україньска"
 contentdir = "content/ua"
 weight = 1
 
 [cs]
+languageName = "Čeština"
 contentdir = "content/cs"
 weight = 2
 
 [ru]
+languageName = "Русский"
 contentdir = "content/ru"
 weight = 3
