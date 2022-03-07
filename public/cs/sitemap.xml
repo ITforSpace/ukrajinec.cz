@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://ukrajinec.cz/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="cs"
                 href="https://ukrajinec.cz/cs/"
                 />

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docs section on ukrajinec.cz</title>
+    <link>https://ukrajinec.cz/ru/</link>
+    <description>Recent content in docs section on ukrajinec.cz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>©{year}, ITforSpace, s.r.o.</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate>
+    
+        <atom:link href="https://ukrajinec.cz/ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Добро пожаловать в Чешскую Республику</title>
+        <link>https://ukrajinec.cz/ru/topics/</link>
+        <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+        
+        <guid>https://ukrajinec.cz/ru/topics/</guid>
+        <description>Международная Церковь Христиан Веры Евангельской в Праге приглашает вас на богослужения.
+Официальная информация для граждан Украины в Чехии в связи с конфликтом на Украине
+ITforSpace, s.r.o. ищу программистов. В компании используются украинский, русский, чешский и английский языки.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

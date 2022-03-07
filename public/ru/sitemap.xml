@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ukrajinec.cz/ua/</loc>
+    <loc>https://ukrajinec.cz/ru/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://ukrajinec.cz/ru/"
+                hreflang="ua"
+                href="https://ukrajinec.cz/ua/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -17,23 +17,23 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ua"
-                href="https://ukrajinec.cz/ua/"
+                hreflang="ru"
+                href="https://ukrajinec.cz/ru/"
                 />
   </url>
   
   <url>
-    <loc>https://ukrajinec.cz/ua/topics/</loc>
+    <loc>https://ukrajinec.cz/ru/topics/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ukrajinec.cz/ru/topics/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
                 href="https://ukrajinec.cz/ua/topics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ukrajinec.cz/ru/topics/"
                 />
   </url>
   
