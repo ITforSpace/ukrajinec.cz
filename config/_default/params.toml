@@ -1,23 +1,23 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Info"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Вітаємо"
+description = "Інформація для громадян України в Чехії."
 
 ## Documentation
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
-ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+#images = ["doks.png"]
+#ogLocale = "en_US"
+#domainTLD = "doks.netlify.app"
+#titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+#twitterSite = "@getdoks"
+#twitterCreator = "@henkverlinde"
 
 ## JSON-LD
 # schemaType = "Person"
@@ -69,7 +69,7 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/ITforSpace/ukrajinec.cz"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = false
@@ -85,7 +85,7 @@ lastMod = false
   breadCrumb = false
   highLight = true
   kaTex = false
-  multilingualMode = false
+  multilingualMode = true
   docsVersioning = false
   fullWidth = false
 

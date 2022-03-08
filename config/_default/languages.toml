@@ -5,6 +5,7 @@
   [en.params]
     languageISO = "EN"
 
+
 [de]
   languageName = "German"
   contentDir = "content/de"
@@ -23,3 +24,14 @@
     titleHome = "Doks thema"
     footer = "Mogelijk gemaakt door <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, en <a href=\"https://getdoks.org/\">Doks</a>"
     alertText = "Introductie van het Doks-kinderthema, verschillende DX + UX-updates en meer! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Bekijk Doks v0.2</a>"
+
+[ua]
+languageName = "Українська"
+contentDir = "content/ua"
+weight = 25
+[ua.params]
+    languageISO = "ua"
+    titleAddition = "Інформація для громадян України в Чехії у зв'язку з конфліктом в Україні"
+    description = "Інформація для громадян України в Чехії у зв'язку з конфліктом в Україні"
+    titleHome = "Інфо"
+    footer = "© 2022 <a href=\"https://itforspace.com/\">ITforSpace </a> s.r.o. Powered by <a href=\"https://getdoks.org/\">Doks</a>"

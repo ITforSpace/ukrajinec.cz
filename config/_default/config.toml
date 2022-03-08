@@ -1,16 +1,16 @@
-baseurl = "https://doks-child-theme.netlify.app/"
+baseurl = "https://ukrajinec.cz/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-languageCode = "en-US"
+languageCode = "ua"
 paginate = 7
 rssLimit = 10
 
 # Multilingual
-defaultContentLanguage = "en"
+defaultContentLanguage = "ua"
 disableLanguages = ["de", "nl"]
 # defaultContentLanguageInSubdir = true
 
