@@ -8,9 +8,9 @@
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
       <a class="btn btn-primary btn-lg px-4 mb-2"
         href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/"
-        role="button">Що робити</a>
-      <p class="meta">Розміщена інформація збирається добровільцями. <a
-          href="https://github.com/ITforSpace/ukrajinec.cz/issues/new">Добавити нову інформацію</a></p>
+        role="button">{{ i18n "wellcome-action" }}</a>
+      <p class="meta">{{ i18n "wellcome-contributor" }} <a
+          href="https://github.com/ITforSpace/ukrajinec.cz/issues/new">{{ i18n "wellcome-contributor-action" }}</a></p>
     </div>
   </div>
 </section>
@@ -21,41 +21,39 @@
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <h2 class="h4">{{ i18n "church-helps-title" }}</h2>
-        <p>В Празі є Церква Християн Віри Євангельскої (пятидесятникі), куди ходять і українці. Інфо тут - <a
-            href="https://kvep.cz">ХВЄ</a> </p>
+        <h2 class="h4">{{ i18n "wellcome-church-helps-title" }}</h2>
+        <p>{{ i18n "wellcome-church-helps-description" }} <a href="https://kvep.cz">ХВЄ</a></p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">Контакт</h2>
-        <p> Зателефонуйте на інформаційну лінію для громадян України: <a href=”tel:+420974801802″>+420 974 801 802</a>
-          (працює цілодовобо).</p>
+        <h2 class="h4">{{ i18n "wellcome-contact-title" }} </h2>
+        <p> {{ i18n "wellcome-contact-description" }}</p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">Інформація від держави️</h2>
-        <p>Офіційна інформація від <a
-            href="https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx?q=Y2hudW09Mg%3d%3d">Міністерства
-            внутрішніх справ</a> Що, де робити</p>
+        <h2 class="h4">{{ i18n "wellcome-official-title" }}</h2>
+        <p>{{ i18n "wellcome-official-description1" }} <a
+            href="https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx?q=Y2hudW09Mg%3d%3d">{{ i18n
+            "wellcome-official-description2" }}</a> {{ i18n
+          "wellcome-official-description3" }}</p>
       </div>
 
     </div>
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <h2 class="h4">Міжнародний притулок</h2>
-        <p>Проте кожен іноземець має право подати заяву про надання притулку. Адреса центру прийому Zastávka je
-          <b>Havířská 514 664 84, Zastávka, Brno – venkov</b>
+        <h2 class="h4">{{ i18n "wellcome-azyl-title" }}</h2>
+        <p>{{ i18n "wellcome-azyl-description" }}
         </p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">Праця</h2>
-        <p>Після того, як ви получите спіцальну візу, можна шукати роботу. І далі подати прохання на дозвіл на роботу.
-          <a href="https://www.uradprace.cz/web/cz/-/pomoc-pro-obcany-ukrajiny-a-jejich-zamestnavatele">Детальніще.</a>
+        <h2 class="h4">{{ i18n "wellcome-job-title" }}</h2>
+        <p>{{ i18n "wellcome-job-description" }}
+          <a href="/{{ .Lang }}/docs/work/intro/">{{ i18n
+            "wellcome-job-detail" }}</a>
         </p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">Фінанси</h2>
-        <p>Банк ČSOB надає можливість відкрити рахунок на біометричний паспорт, допомогу 2 500 корун (100 $). Також
-          зняття готівки з українськиї карток без комісії. <a
-            href="https://www.csob.cz/portal/ukrajina/balicek-pro-prichozi">Детальніще</a> </p>
+        <h2 class="h4">{{ i18n "wellcome-money-title" }}</h2>
+        <p>{{ i18n "wellcome-money-description" }} <a href="/{{ .Lang }}/docs/finance/general/">{{
+            i18n "wellcome-money-detail" }}</a> </p>
       </div>
     </div>
   </div>

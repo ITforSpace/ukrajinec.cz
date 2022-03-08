@@ -19,3 +19,5 @@ toc: true
 * Зняття коштів з українських рахунків  без комісії
 * Рахунок із фінансовою допомогою 2 500 чеських крон
 * Безкоштовний валютний рахунок та безкоштовні депозити
+
+[https://www.csob.cz/portal/ukrajina/balicek-pro-prichozi](https://www.csob.cz/portal/ukrajina/balicek-pro-prichozi)

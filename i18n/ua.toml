@@ -3,3 +3,59 @@
 
 [church-helps-title]
    other = "Духовна допомога"
+
+[wellcome-action]
+    other="Що робити"
+
+[wellcome-contributor]
+    other="Розміщена інформація збирається добровільцями."
+
+[wellcome-contributor-action]
+    other="Добавити нову інформацію"   
+
+[church-helps-description]
+   other = "В Празі є Церква Християн Віри Євангельскої (пятидесятникі), куди ходять і українці. Інфо тут - "
+
+[wellcome-church-helps-description]
+   other = "В Праге есть Церковь Христиан Веры Евангельской (пятидесятники), куда ходят и украинцы. Инфо здесь - "
+
+[wellcome-contact-title]
+    other = "Контакт"
+[wellcome-contact-description]
+    other = "Зателефонуйте на інформаційну лінію для громадян України: +420 974 801 802 (працює цілодовобо)."
+
+[wellcome-official-title]
+    other = "Інформація від держави️"
+
+[wellcome-official-description1]
+    other = "Офіційна інформація від"
+
+[wellcome-official-description2]
+    other = "Міністерства внутрішніх справ"
+
+[wellcome-official-description3]
+    other = "Що, де робити"
+
+[wellcome-azyl-title]
+    other = "Міжнародний притулок"
+
+[wellcome-azyl-description]
+    other = "Проте кожен іноземець має право подати заяву про надання притулку. Адреса центру прийому: Havířská 514 664 84, Zastávka, Brno – venkov"
+
+[wellcome-job-title]
+    other = "Праця"
+
+[wellcome-job-description]
+    other = "Після того, як ви получите спіцальну візу, можна шукати роботу. І далі подати прохання на дозвіл на роботу."
+
+[wellcome-job-detail]
+    other = "Детальніще."
+
+[wellcome-money-title]
+    other = "Фінанси"
+
+[wellcome-money-description]
+    other = "Банк ČSOB надає можливість відкрити рахунок на біометричний паспорт, допомогу 2 500 корун (100 $). Також зняття готівки з українськиї карток без комісії."
+
+[wellcome-money-detail]
+    other = "Детальніще."

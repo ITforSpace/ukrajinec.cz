@@ -1,4 +1,61 @@
 [wellcome-title]
     other="Добро пожаловать в Чешскую Республику!"
-[church-helps-title]
-   other = "Духовна допомога"
+
+[wellcome-description]
+    other="Информация для граждан Украины в Чехии в связи с конфликтом в Украине"
+
+[wellcome-action]
+    other="Что делать"
+
+[wellcome-contributor]
+    other="Размещенная информация собирается добровольцами."
+
+[wellcome-contributor-action]
+    other="Добавить новую информацию"
+
+[wellcome-church-helps-title]
+   other = "Духовная помощь"
+
+[wellcome-church-helps-description]
+   other = "В Праге есть Церковь Христиан Веры Евангельской (пятидесятники), куда ходят и украинцы. Инфо здесь - "
+
+[wellcome-contact-title]
+    other = "Контакт"
+[wellcome-contact-description]
+    other = "Позвоните на информационную линию для граждан Украины: +420 974 801 802 (работает круглосуточно)."
+
+[wellcome-official-title]
+    other = "Информация от государства️"
+
+[wellcome-official-description1]
+    other = "Официальная информация от"
+
+[wellcome-official-description2]
+    other = "Министерства внутренних дел"
+
+[wellcome-official-description3]
+    other = "Что, где делать"
+
+[wellcome-azyl-title]
+    other = "Международное убежище"
+
+[wellcome-azyl-description]
+    other = "Однако каждый иностранец имеет право подать заявление о предоставлении убежища. Адрес центра приема: Havířská 514 664 84, Zastávka, Brno – venkov"
+
+[wellcome-job-title]
+    other = "Труд"
+
+[wellcome-job-description]
+    other = "После того, как вы получите специальную визу, можно искать работу. И далее подать прошение на разрешение на работу."
+
+[wellcome-job-detail]
+    other = "Подробнее."
+
+[wellcome-money-title]
+    other = "Финансы"
+
+[wellcome-money-description]
+    other = "Банк ČSOB предоставляет возможность открыть счет на биометрический паспорт, помощь 2 500 корун (100 $). Также снятие наличных с украинской карты без комиссии."
+
+[wellcome-money-detail]
+    other = "Подробнее." 
