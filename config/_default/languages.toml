@@ -19,3 +19,14 @@ weight = 25
     description = "Информация для граждан Украины пребывающих в Чехии"
     titleHome = "Інфо"
     footer = "© 2022 <a href=\"https://itforspace.com/\">ITforSpace </a> s.r.o. Powered by <a href=\"https://getdoks.org/\">Doks</a>"
+
+[cs]
+languageName = "Česky"
+contentDir = "content/cs"
+weight = 25
+[cs.params]
+    languageISO = "cs"
+    titleAddition = "Informace pro občany ukrajiny v ČR."
+    description = "Informace pro občany ukrajiny v ČR."
+    titleHome = "Інфо"
+    footer = "© 2022 <a href=\"https://itforspace.com/\">ITforSpace </a> s.r.o. Powered by <a href=\"https://getdoks.org/\">Doks</a>"

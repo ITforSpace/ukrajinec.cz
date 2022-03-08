@@ -1,0 +1,62 @@
+[wellcome-title]
+    other = "Vítejte v České republice!"
+
+[church-helps-title]
+   other = "Duchovní pomoc"
+
+[wellcome-action]
+    other = "Co dělat"
+
+[wellcome-contributor]
+    other = "Uveřejněné informace shromažďují dobrovolníci."
+
+[wellcome-contributor-action]
+    other = "Přidat nové informace"
+
+[wellcome-church-helps-title]
+   other = "Duchovní pomoc"
+
+[wellcome-church-helps-description]
+   other = "V Praze je Církev křesťanů evangelického vyznání (letniční), kam chodí i Ukrajinci. Info zde -"
+
+[wellcome-contact-title]
+    other = "Kontakt"
+
+[wellcome-contact-description]
+    other = "Zavolejte na informační linku pro občany Ukrajiny: +420 974 801 802 (otevřeno 24 hodin denně)."
+
+[wellcome-official-title]
+    other = "Informace od státu️"
+
+[wellcome-official-description1]
+    other = "Oficiální informace od"
+
+[wellcome-official-description2]
+    other = "Ministerstva vnitra ČR"
+
+[wellcome-official-description3]
+    other = "Co, kde dělat"
+
+[wellcome-azyl-title]
+    other = "Mezinárodní azyl"
+
+[wellcome-azyl-description]
+    other = "Každý cizinec má však právo požádat o azyl. Adresa přijímacího střediska: Havířská 514 664 84, Zastávka, Brno - venkov"
+
+[wellcome-job-title]
+    other = "Práce"
+
+[wellcome-job-description]
+    other = "Jakmile dostanete speciální vízum, můžete si hledat práci. Pak zažádejte o pracovní povolení."
+
+[wellcome-job-detail]
+    other = "Podrobnosti."
+
+[wellcome-money-title]
+    other = "Finance"
+
+[wellcome-money-description]
+    other = "ČSOB banka poskytuje možnost založení účtu na biometrický pas, asistenci 2500 korun (100 dolarů). Bez poplatku také výběr hotovosti z ukrajinských karet."
+
+[wellcome-money-detail]
+    other = "Podrobnosti."
