@@ -72,8 +72,8 @@ repoHost = "GitHub"
 docsRepo = "https://github.com/ITforSpace/ukrajinec.cz"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
-editPage = false
-lastMod = false
+editPage = true
+lastMod = true
 
 [options]
   lazySizes = true
