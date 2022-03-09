@@ -7,7 +7,7 @@
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
       <a class="btn btn-primary btn-lg px-4 mb-2"
-        href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/"
+        href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}finance/general/"
         role="button">{{ i18n "wellcome-action" }}</a>
       <p class="meta">{{ i18n "wellcome-contributor" }} <a
           href="https://github.com/ITforSpace/ukrajinec.cz/issues/new">{{ i18n "wellcome-contributor-action" }}</a></p>
@@ -46,13 +46,15 @@
       <div class="col-lg-5">
         <h2 class="h4">{{ i18n "wellcome-job-title" }}</h2>
         <p>{{ i18n "wellcome-job-description" }}
-          <a href="/{{ .Lang }}/docs/work/intro/">{{ i18n
+          <a href='{{
+            i18n "wellcome-job-url" }}'>{{ i18n
             "wellcome-job-detail" }}</a>
         </p>
       </div>
       <div class="col-lg-5">
         <h2 class="h4">{{ i18n "wellcome-money-title" }}</h2>
-        <p>{{ i18n "wellcome-money-description" }} <a href="/{{ .Lang }}/docs/finance/general/">{{
+        <p>{{ i18n "wellcome-money-description" }} <a href='{{
+            i18n "wellcome-money-url" }}'>{{
             i18n "wellcome-money-detail" }}</a> </p>
       </div>
     </div>

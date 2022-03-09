@@ -51,6 +51,9 @@
 [wellcome-job-detail]
     other = "Подробнее."
 
+[wellcome-job-url]
+    other = "/ru/docs/work/intro/"
+
 [wellcome-money-title]
     other = "Финансы"
 
@@ -58,4 +61,7 @@
     other = "Банк ČSOB предоставляет возможность открыть счет на биометрический паспорт, помощь 2 500 корун (100 $). Также снятие наличных с украинской карты без комиссии."
 
 [wellcome-money-detail]
-    other = "Подробнее." 
+    other = "Подробнее."
+
+[wellcome-money-url]
+    other = "/ru/docs/finance/general/"
