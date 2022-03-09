@@ -11,10 +11,13 @@
     other="Розміщена інформація збирається добровільцями."
 
 [wellcome-contributor-action]
-    other="Добавити нову інформацію"   
+    other="Добавити нову інформацію"
 
 [church-helps-description]
    other = "В Празі є Церква Християн Віри Євангельскої (пятидесятникі), куди ходять і українці. Інфо тут - "
+
+[wellcome-church-helps-title]
+   other = "Духовна допомога"
 
 [wellcome-church-helps-description]
    other = "В Праге есть Церковь Христиан Веры Евангельской (пятидесятники), куда ходят и украинцы. Инфо здесь - "
@@ -51,6 +54,9 @@
 [wellcome-job-detail]
     other = "Детальніще."
 
+[wellcome-job-url]
+    other = "/docs/work/intro/"
+
 [wellcome-money-title]
     other = "Фінанси"
 
@@ -59,3 +65,7 @@
 
 [wellcome-money-detail]
     other = "Детальніще."
+
+[wellcome-money-url]
+    other = "/docs/finance/general/"
+

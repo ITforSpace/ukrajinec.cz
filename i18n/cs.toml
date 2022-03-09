@@ -52,6 +52,9 @@
 [wellcome-job-detail]
     other = "Podrobnosti."
 
+[wellcome-job-url]
+    other = "/cs/docs/work/intro/"
+
 [wellcome-money-title]
     other = "Finance"
 
@@ -60,3 +63,6 @@
 
 [wellcome-money-detail]
     other = "Podrobnosti."
+
+[wellcome-money-url]
+    other = "/cs/docs/finance/general/"
