@@ -1,3 +1,9 @@
+# ukrajinec.cz
+
+Please help us complete the page ukrajinec.cz which helps with migration from Ukraine into the Czech Republic.
+
+Project mantained by https://itforspace.com
+
 <p align="center">
   <a href="https://getdoks.org/">
     <img alt="Doks" src="https://doks.netlify.app/logo-doks.svg" width="60">
@@ -5,7 +11,7 @@
 </p>
 
 <h1 align="center">
-  Doks
+  Theme - Doks
 </h1>
 
 <h3 align="center">
