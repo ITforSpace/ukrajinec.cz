@@ -2,7 +2,7 @@
 
 **Please help us complete the page https://ukrajinec.cz which helps with migration from Ukraine into the Czech Republic.**
 
-Project mantained by  [![OC sponsor 0](https://www.itforspace.com/img/ITforSpace.png)](https://www.itforspace.com)
+Project mantained by  [!Github Sponsorship](https://www.itforspace.com/img/ITforSpace.png)](https://www.itforspace.com)
 
 <p align="center">
   <a href="https://getdoks.org/">
