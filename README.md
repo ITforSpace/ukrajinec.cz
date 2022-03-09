@@ -2,6 +2,9 @@
 
 **Please help us complete the page https://ukrajinec.cz which helps with migration from Ukraine into the Czech Republic.**
 
+# Maintainer
+[![OC sponsor 1](https://www.itforspace.com/img/ITforSpace.png)](https://www.itforspace.com)
+
 <p align="center">
   <a href="https://getdoks.org/">
     <img alt="Doks" src="https://doks.netlify.app/logo-doks.svg" width="60">
@@ -135,8 +138,6 @@ Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for comm
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
 
 [![OC sponsor 2](https://opencollective.com/doks/sponsor/0/avatar.svg)](https://opencollective.com/doks/sponsor/0/website)
-[![OC sponsor 1](https://www.itforspace.com/img/ITforSpace.png)](https://www.itforspace.com)
-
 ## Backers
 
 Support this project by becoming a backer. Your avatar will show up here.
