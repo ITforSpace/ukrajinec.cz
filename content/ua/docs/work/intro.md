@@ -18,7 +18,7 @@ toc: true
 
 
 ### Сайти де шукати роботу
-* **[www.itforspace.com](https://www.itforspace.com)** - Звертайтесь до нас, якщо ви шукаєте роботу в ІТ. Ми також розмовляємо вашою мовою. У нас є контакти. У нас навіть є контакти для пропозицій роботи за межами нашої IT-сфери. Ми чеська компанія. Напишите нам на [robota@itforspace.com](mailto:robota@itforspace.com)
+* **[www.itforspace.com](https://www.itforspace.com)** - Звертайтесь до нас, якщо ви шукаєте роботу в ІТ. Ми також розмовляємо вашою мовою. У нас є контакти. Ми чеська компанія. Напишите нам на [robota@itforspace.com](mailto:robota@itforspace.com)
 * **[www.prace.cz](https://www.prace.cz/)**
 * **[www.jobs.cz](https://www.jobs.cz/)**
 * **[www.startupjobs.cz](https://www.startupjobs.cz/)**
