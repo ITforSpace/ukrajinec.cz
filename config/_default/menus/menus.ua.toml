@@ -35,6 +35,12 @@ name = "Перші кроки"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
+
+[[main]]
+name = "Житло"
+url = "/docs/accomodation/"
+weight = 20
+
 # [[main]]
 #   name = "Tutorial"
 #   url = "/tutorial/lorem/ipsum/"
