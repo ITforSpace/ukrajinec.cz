@@ -2,7 +2,7 @@
 
 **Please help us complete the page https://ukrajinec.cz which helps with migration from Ukraine into the Czech Republic.**
 
-# Maintainer
+## Maintainer
 [![OC sponsor 1](https://www.itforspace.com/img/ITforSpace.png)](https://www.itforspace.com)
 
 <p align="center">
