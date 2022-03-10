@@ -69,3 +69,23 @@
 [wellcome-money-url]
     other = "/docs/finance/general/"
 
+[welcome-transport-title]
+  other = "Транспорт"
+
+[welcome-transport-description]
+  other = "Міський транспорт в Празі та всі поїзди Чехії зараз для громадян України безкоштовні."
+
+[welcome-transport-url]
+  other = "/docs/transportation/general"
+
+[wellcome-detail]
+other = "Детальніще."
+
+[welcome-accommodation-title]
+  other = "Житло"
+
+[welcome-accommodation-description]
+  other = "Як знайти житло в Чехії. Коли приїхали і нікого не знаєте. І коли знаєте"
+[welcome-accommodation-url]
+  other = "/docs/accomodation/accomod-intro/"
+
