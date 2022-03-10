@@ -36,7 +36,7 @@ toc: true
 ### Де шукати
 аренда квартир на довгий срок. Скорій всього з вас потребують залог в розмірі 1-3 арендної плати. (як уже договоритеся)/ плюс провізія ріелтору.
 
- * [Sreality](https://www.sreality.cz/ru/search/apartments)
+* :bangbang: **[Sreality](https://www.sreality.cz/ru/search/apartments) (Російськомовна версія чеського сайту) ** :bangbang:
 
 *  [Bezrealitky](https://www.bezrealitky.cz) - без ріелтора. обяви дають люди. тут уж як домовитеся.
 
