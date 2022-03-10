@@ -30,16 +30,37 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-name = "Перші кроки"
+name = "Церква ..."
+  url = "https://www.kvep.cz"
+  weight = 1
+
+[[main]]
+  name = "Перші кроки"
   url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
 
 [[main]]
-name = "Житло"
-url = "/docs/accomodation/"
-weight = 20
+  name = "Житло"
+  url = "/docs/accomodation/accomod-intro/"
+  weight = 20
+
+[[main]]
+  name = "Гроші"
+  weight = 30
+  identifier = "finance"
+  url = "/docs/finance/general/"
+
+[[main]]
+  name = "Транспорт"
+  url = "/docs/transportation/general/"
+  weight = 40
+
+[[main]]
+  name = "ПРАЦЯ"
+  url = "/docs/work/intro/"
+  weight = 50
+
 
 # [[main]]
 #   name = "Tutorial"
