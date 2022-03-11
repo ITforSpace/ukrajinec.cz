@@ -13,19 +13,17 @@ weight: 100
 toc: true
 ---
 
+## Швидка дорога
+
+> На час дії надзвичайного стану у зв’язку з війною в Україні пасажирські автомобілі, що використовуються в гуманітарних цілях, звільнені від дорожніх зборів.
+
+Інформація взята з [https://edalnice.cz/](https://edalnice.cz/)
+
+> Odpuštění dálničních poplatků se týká i osobních vozidel s ukrajinskou poznávací značkou, která po dobu nouzového stavu využijí síť zpoplatněných dálnic na cestě do bezpečí před válečným konfliktem.
+
+Інформація взята з [https://www.mdcr.cz/Media/Media-a-tiskove-zpravy/Osobni-a-nakladni-auta-jsou-pro-humanitarni-ucely](https://www.mdcr.cz/Media/Media-a-tiskove-zpravy/Osobni-a-nakladni-auta-jsou-pro-humanitarni-ucely)
 
 ## Громадскій транспорт
-### в Празі
-Зараз в Празі в трамваях, автобусах, метро **для уркаїнців** проїзд **безкоштовно**.
-Достатньо показати паспорт України чи загранпаспорт.
-
-### в Брно
-на закладі візи **можна попросити** у Доправного подніку Брно ( [Dopravni podnik Brno](https://www.dpmb.cz/cs/novinky/all)  ) **безкоштовний квиток**.
-Адреса:
-```
-budova DPMB, a.s., Novobranská 18, Brno
-
-```
 
 ### Регіональний транспорт
 
@@ -37,4 +35,36 @@ budova DPMB, a.s., Novobranská 18, Brno
 * [StudentAgency](https://www.studentagency.cz/#form-2) :bus: :train: :airplane:
 * [FlixBus](https://www.flixbus.ua/?noRedirect=true) :bus:
 * [Idos](https://idos.idnes.cz/vlakyautobusymhdvse/spojeni/) - білети :ticket:
+### в Брно
+на закладі візи **можна попросити** у Доправного подніку Брно ( [Dopravni podnik Brno](https://www.dpmb.cz/cs/novinky/all)  ) **безкоштовний квиток**.
+Адреса:
+```
+budova DPMB, a.s., Novobranská 18, Brno
+
+```
+Інформація взята з [https://dpmb.cz/cs/download/8000](https://dpmb.cz/cs/download/8000)
+### в Празі
+#### :bangbang: Зміна умов безплатного проїзду українських біженців із зони бойових дій від 10.3.2022 :bangbang:
+
+> З 10 березня 2022 р. в рамках Празької інтегрованої системи громадського транспорту змінюються умови безплатного проїзду для громадян України. Відтепер необхідно буде підтвердити право на проїзд за 0 CZK одним з наступних способів: 
+>
+> – закордонним паспортом України з візою для біженців, виданою Міністерством внутрішніх справ ЧР або Поліцією ЧР
+> – свідоцтвом про перетин кордону з вклеєною візою для біженців, виданою Міністерством внутрішніх справ ЧР або Поліцією ЧР
+> Протягом періоду від приїзду біженців з України до отримання необхідної візи у Чеській Республіці буде визнаватися і штамп з датою перетину кордону ЄС у закордонному паспорті, але не раніше ніж 23.2.2022, протягом не більше як 30 днів від в᾽їзду на територію ЄС.
+
+> Видані досі гостьові проїзні квитки включно з їхніми варіантами будуть діяти і надалі. Але відтепер при виконанні вищевказаних умов більше немає необхідності звертатися за отриманням гостьового проїзного квитка.
+> 
+> За цих умов дозволений безплатний проїзд усіма видами транспортних засобів на маршрутах Празької інтегрованої системи громадського транспорту на території Праги і Середньочеського краю, за винятком поїздів (там діють аналогічні правила окремих залізничних перевізників)
+
+> Решта громадян України, що не відповідають вищевказаним критеріям, повинні оплачувати свій проїзд згідно з Тарифом ПІСГТ.
+
+> Візу для біженців видає Поліція у справах іноземців – детальна інформація за посиланням:
+>
+> [https://www.mvcr.cz/clanek/pracoviste-mv-odboru-azylove-a-migracni-politiky-praha.aspx](https://www.mvcr.cz/clanek/pracoviste-mv-odboru-azylove-a-migracni-politiky-praha.aspx)
+
+Інформація взята з [https://pid.cz/zmena-podminek-bezplatnou-prepravu-ukrajinskych-valecnych-uprchliku-od-10-3-2022/](https://pid.cz/zmena-podminek-bezplatnou-prepravu-ukrajinskych-valecnych-uprchliku-od-10-3-2022/)
+
+
+
+
 
