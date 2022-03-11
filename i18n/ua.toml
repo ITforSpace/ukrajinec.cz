@@ -76,7 +76,7 @@
   other = "Міський транспорт в Празі та всі поїзди Чехії зараз для громадян України у певних випадках безкоштовні."
 
 [welcome-transport-url]
-  other = "/docs/transportation/general"
+  other = "/docs/transportation/general/"
 
 [wellcome-detail]
 other = "Детальніще."
