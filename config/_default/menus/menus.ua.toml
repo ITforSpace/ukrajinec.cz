@@ -32,7 +32,7 @@ name = "Церква ..."
 
 [[main]]
   name = "Школа і курси"
-  url = "/docs/education/general/"
+  url = "/docs/education/czech/"
   weight = 42
 
 [[main]]
