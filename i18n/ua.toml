@@ -73,7 +73,7 @@
   other = "Транспорт"
 
 [welcome-transport-description]
-  other = "Міський транспорт в Празі та всі поїзди Чехії зараз для громадян України безкоштовні."
+  other = "Міський транспорт в Празі та всі поїзди Чехії зараз для громадян України у певних випадках безкоштовні."
 
 [welcome-transport-url]
   other = "/docs/transportation/general"
