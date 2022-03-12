@@ -23,7 +23,7 @@ toc: true
 
 Информация взята с [https://www.mdcr.cz/Media/Media-a-tiskove-zpravy/Osobni-a-nakladni-auta-jsou-pro-humanitarni-ucely](https://www.mdcr.cz/Media/Media-a-tiskove-zpravy/Osobni-a-nakladni-auta-jsou-pro-humanitarni-ucely)
 
-## Общественныйы транспорт
+## Общественный транспорт
 
 ### Региональный транспорт
 
