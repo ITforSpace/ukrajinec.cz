@@ -24,6 +24,8 @@ toc: true
 Поэтому правительство ЧР взяло вопрос предоставления жилья под свой контроль. Всем добровольцам предписано обращаться в гос. органы, если они хотят предоставить жильё беженцам.
 Весь процесс проходит через гос. органы, поэтому, пожалуйста, обращайтесь в официальные центры помощи.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bmcgvAsd5mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 ## Где найти жильё
 
