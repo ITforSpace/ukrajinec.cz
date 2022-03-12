@@ -19,7 +19,7 @@ toc: true
 
 Інформація взята з [https://edalnice.cz/](https://edalnice.cz/)
 
-> Odpuštění dálničních poplatků se týká i osobních vozidel s ukrajinskou poznávací značkou, která po dobu nouzového stavu využijí síť zpoplatněných dálnic na cestě do bezpečí před válečným konfliktem.
+> Отмена сбора дорожных пошлин касается и пассажирских автомобилей с украинским номером, которые воспользуются сетью платных дорог на пути в безопасное место из зоны конфликта во время чрезвычайного положения.
 
 Інформація взята з [https://www.mdcr.cz/Media/Media-a-tiskove-zpravy/Osobni-a-nakladni-auta-jsou-pro-humanitarni-ucely](https://www.mdcr.cz/Media/Media-a-tiskove-zpravy/Osobni-a-nakladni-auta-jsou-pro-humanitarni-ucely)
 
