@@ -24,6 +24,8 @@ toc: true
 Тому влада ЧР взяла організацію житла під своє крило. Всі добровільці звертаються до влади і предостовляють своє житло.
 Все йде офіційно через владу, звертайтесь до центру допомоги.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bmcgvAsd5mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 ## Де знайти житло
 

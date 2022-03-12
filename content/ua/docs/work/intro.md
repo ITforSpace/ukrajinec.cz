@@ -12,6 +12,17 @@ parent: "work"
 weight: 100
 toc: true
 ---
+
+---
+
+## :warning: Увага шахраї
+
+ уже появилися шахраї, як на кордонах, так на вокзалах, та й у нас в Чехії.
+Шахраї видають себе за добровільців, та обкрадають людей, крадуть дітей та жінок. Будь ласка, будьте дуже уважні.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bmcgvAsd5mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 ### Інформація від уряду зайнятості
 `Úřád práce` - інформація і на українській мові
 [тут](https://www.uradprace.cz/web/cz/-/pomoc-pro-obcany-ukrajiny-a-jejich-zamestnavatele)
