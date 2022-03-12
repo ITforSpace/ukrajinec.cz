@@ -34,7 +34,7 @@ toc: true
 * [České Dráhy](https://www.cd.cz/spojeni-a-jizdenka/apiform?hist=true&gclid=CjwKCAiA4KaRBhBdEiwAZi1zzqhduMjo8w5uGXwx5SMe66XyNzr7X1JH9OGAlpEnD3IxBALaBQqhTBoCZwUQAvD_BwE) :train:
 * [StudentAgency](https://www.studentagency.cz/#form-2) :bus: :train: :airplane:
 * [FlixBus](https://www.flixbus.ua/?noRedirect=true) :bus:
-* [Idos](https://idos.idnes.cz/vlakyautobusymhdvse/spojeni/) - білети :ticket:
+* [Idos](https://idos.idnes.cz/vlakyautobusymhdvse/spojeni/) - билеты :ticket:
 ### В Брно
 На основании визы **можно попросить** у Транспортного предприятия Брно ( [Dopravni podnik Brno](https://www.dpmb.cz/cs/novinky/all)  ) **бесплатный проездной**.
 Адрес:
