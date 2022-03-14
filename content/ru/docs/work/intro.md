@@ -33,3 +33,4 @@ toc: true
 * **[www.prace.cz](https://www.prace.cz/)**
 * **[www.jobs.cz](https://www.jobs.cz/)**
 * **[www.startupjobs.cz](https://www.startupjobs.cz/)**
+* **[https://www.hlidacky.cz/](https://www.hlidacky.cz/) - Если вы хотите быть няней, зарегистрируйтесь здесь.**
