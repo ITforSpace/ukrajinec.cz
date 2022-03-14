@@ -117,3 +117,5 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "data"
     target = "data"
+
+ignoreErrors = ["image-not-found"]
