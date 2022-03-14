@@ -51,6 +51,6 @@ toc: true
 [Inkluzivni skola](https://www.inkluzivniskola.cz/ukrajinstina)
 
 ## Веб-посилання
-* [https://shkola.cz/](https://shkola.cz/)
+* [https://shkola.cz/uk/index.html](https://shkola.cz/uk/index.html)
 * [https://www.edu.cz/ukrajina/%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2/](https://www.edu.cz/ukrajina/%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2/)
 * [https://www.inkluzivniskola.cz/ukrajinstina](https://www.inkluzivniskola.cz/ukrajinstina)
