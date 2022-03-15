@@ -35,6 +35,12 @@ name = "Церковь ..."
   weight = 42
 
 [[main]]
+  name = "Благотворительность"
+  url = "/docs/charity/"
+  weight = 43
+
+
+[[main]]
   name = "РАБОТА"
   url = "/docs/work/intro/"
   weight = 50
