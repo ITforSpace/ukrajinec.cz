@@ -47,17 +47,16 @@ toc: true
 * [hyperreality.cz](hyperreality.cz)
 * [www.remax-czech.cz](https://www.remax-czech.cz/reality/vyhledavani/?sale=2#filter)
 
-#### Жилье, квартиры, общежития, места для ночевки беженцев
-* [https://prykhystok.in.ua/find](https://prykhystok.in.ua/find)
-* [https://www.host4ukraine.com/](https://www.host4ukraine.com/)
-* [https://www.shelter4ua.com/uame](https://www.shelter4ua.com/uame)
-* [https://kdemohupomoci.cz/](https://kdemohupomoci.cz/)
-* [https://mapahelp.me/](https://mapahelp.me/)
-* [https://icanhelp.host/](https://icanhelp.host/)
-
 #### Короткосрочная аренда
 
 * [Booking](https://www.booking.com/budget/city/cz/prague.uk.html?aid=356980&label=gog235jc-1DCAMYAig6OP8CSAVYA2g6iAEBmAEFuAEHyAEN2AED6AEB-AECiAIBqAIDuAKj9KeRBsACAdICJDYzZGM1NzZjLTMyODYtNDQ2Zi1iMWM3LTE0YzU4ZjIyMjJjNdgCBOACAQ&sid=227361d5d5d5cc43b078e5e5a10ba84d&lang=uk&soz=1&lang_click=other;cdl=cs;lang_changed=1)
 * [AirBnb](https://www.airbnb.com.ua/?_set_bev_on_new_domain=1646918234_MDU1YTY0Mjk4NTY4)
 * [Penzion.cz](https://www.penzion.cz)
 * [Хостел из Орла&Решки (тот дешёвый в центре)](https://www.czech-inn.com)
+
+#### Жилье, квартиры, общежития, места для ночевки беженцев
+* [https://www.host4ukraine.com/](https://www.host4ukraine.com/)
+* [https://www.shelter4ua.com/uame](https://www.shelter4ua.com/uame)
+* [https://kdemohupomoci.cz/](https://kdemohupomoci.cz/)
+* [https://mapahelp.me/](https://mapahelp.me/)
+* [https://icanhelp.host/](https://icanhelp.host/)
