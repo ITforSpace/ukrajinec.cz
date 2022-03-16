@@ -12,9 +12,9 @@ images: []
 
 ### Новини для українців у Чехії
 
-* [https://cesky.radio.cz/node/8743871/o-poradu](https://cesky.radio.cz/node/8743871/o-poradu)
-* [https://www.seznamzpravy.cz/clanek/specialy-informace-pro-ukrajince-193680](https://www.seznamzpravy.cz/clanek/specialy-informace-pro-ukrajince-193680)
-* [https://www.mujrozhlas.cz/novini-dlya-ukrainciv-u-chekhii](https://www.mujrozhlas.cz/novini-dlya-ukrainciv-u-chekhii)
+[https://cesky.radio.cz/node/8743871/o-poradu](https://cesky.radio.cz/node/8743871/o-poradu)
+[https://www.seznamzpravy.cz/clanek/specialy-informace-pro-ukrajince-193680](https://www.seznamzpravy.cz/clanek/specialy-informace-pro-ukrajince-193680)
+[https://www.mujrozhlas.cz/novini-dlya-ukrainciv-u-chekhii](https://www.mujrozhlas.cz/novini-dlya-ukrainciv-u-chekhii)
 
 # Євангеліє - добра новина
 Якщо ви хочете заспокоїтись у ці важкі часи, вам краще читати не новини, а Біблію. Це вже доведена річ. 
