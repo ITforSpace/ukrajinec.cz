@@ -40,8 +40,8 @@ toc: true
 Скорее всего с Вас потребуют залог в розмере 1-3 арендных плат (зависит, как договоритесь) плюс наценка риэлтора.
 
 * :bangbang: **[Sreality](https://www.sreality.cz/ru/search/apartments) - Русская версия чешского сайта** :bangbang:
-* [Bezrealitky](https://www.bezrealitky.cz) - без риэлторов. Объявления размещают владельцы квартир. Тут уже всё исключительно по договорённости.
 * [ulovdomov.cz](https://www.ulovdomov.cz/vyhledavani/pronajem/%C4%8Cesk%C3%A1%20republika/pomoc-ukrajine)
+* [Bezrealitky](https://www.bezrealitky.cz) - без риэлторов. Объявления размещают владельцы квартир. Тут уже всё исключительно по договорённости.
 * [Bazoš](https://reality.bazos.cz/pronajmu/byt/)
 * [reality.idnes.cz](reality.idnes.cz)
 * [hyperreality.cz](hyperreality.cz)
