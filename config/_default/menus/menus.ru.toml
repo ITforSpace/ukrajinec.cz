@@ -24,20 +24,27 @@ name = "Церковь ..."
   url = "/docs/transportation/general/"
   weight = 40
 
+
 [[main]]
   name = "Врачи"
   url = "/docs/doctors/general/"
   weight = 41
 
 [[main]]
+  name = "Хобби"
+  url = "/docs/doctors/"
+  weight = 42
+  
+[[main]]
   name = "Школа и курсы"
   url = "/docs/education/czech/"
-  weight = 42
+  weight = 43
 
 [[main]]
   name = "Благотворительность"
   url = "/docs/charity/"
-  weight = 43
+  weight = 44
+
 
 
 [[main]]

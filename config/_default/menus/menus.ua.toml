@@ -27,18 +27,23 @@ name = "Церква ..."
 
 [[main]]
   name = "Лікарі"
-  url = "/docs/doctors/general/"
+  url = "/docs/doctors/"
   weight = 41
+
+[[main]]
+  name = "Хобі"
+  url = "/docs/relax/"
+  weight = 42
 
 [[main]]
   name = "Школа і курси"
   url = "/docs/education/"
-  weight = 42
+  weight = 43
 
 [[main]]
   name = "Благодійність"
   url = "/docs/charity/"
-  weight = 43
+  weight = 44
 
 [[main]]
   name = "ПРАЦЯ"
