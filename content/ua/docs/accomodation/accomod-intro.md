@@ -39,11 +39,12 @@ toc: true
 аренда квартир на довгий срок. Скорій всього з вас потребують залог в розмірі 1-3 арендної плати. (як уже договоритеся)/ плюс провізія ріелтору.
 
 * :bangbang: **[Sreality](https://www.sreality.cz/ru/search/apartments) - Російськомовна версія чеського сайту** :bangbang:
-
-*  [Bezrealitky](https://www.bezrealitky.cz) - без ріелтора. обяви дають люди. тут уж як домовитеся.
-
-*  [Bazoš](https://reality.bazos.cz/pronajmu/byt/)
-
+* [Bezrealitky](https://www.bezrealitky.cz) - без ріелтора. обяви дають люди. тут уж як домовитеся.
+* [Bazoš](https://reality.bazos.cz/pronajmu/byt/)
+* [ulovdomov.cz](ulovdomov.cz)
+* [reality.idnes.cz](reality.idnes.cz)
+* [hyperreality.cz](hyperreality.cz)
+* [www.remax-czech.cz](https://www.remax-czech.cz/reality/vyhledavani/?sale=2#filter)
 
 #### Короткочасні аренди
 
