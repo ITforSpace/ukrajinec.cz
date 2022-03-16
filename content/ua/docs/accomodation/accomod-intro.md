@@ -47,7 +47,7 @@ toc: true
 * [www.remax-czech.cz](https://www.remax-czech.cz/reality/vyhledavani/?sale=2#filter)
 
 #### Жилье, квартиры, общежития, места для ночевки беженцев
-* [https://prykhystok.in.ua/](https://prykhystok.in.ua/)
+* [https://prykhystok.in.ua/](https://prykhystok.in.ua/find)
 * [https://www.host4ukraine.com/](https://www.host4ukraine.com/)
 * [https://www.shelter4ua.com/uame](https://www.shelter4ua.com/uame)
 * [https://kdemohupomoci.cz/](https://kdemohupomoci.cz/)
