@@ -46,6 +46,12 @@ name = "Церква ..."
   weight = 44
 
 [[main]]
+  name = "Чеські ЗМІ"
+  weight = 45
+  identifier = "finance"
+  url = "/docs/czech-news/"
+
+[[main]]
   name = "ПРАЦЯ"
   url = "/docs/work/intro/"
   weight = 50
