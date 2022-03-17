@@ -12,6 +12,9 @@ menu:
 weight: 130
 toc: true
 ---
+
+je možné si otevřít účet v obou bankach.
+
 ## Banka ČSOB
 #### Balíček pro příchozí z Ukrajiny
 
