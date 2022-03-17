@@ -1,9 +1,9 @@
 ---
-title : "Školy"
-description: "Jak je to se školámi pro uprchlíky."
+title: "Школа и курсы"
+description: "Информация про образование и курсы в Чехии."
 lead: ""
-date: 2020-10-06T08:48:45+00:00
-lastmod: 2020-10-06T08:48:45+00:00
+date: 2020-10-06T08:49:15+00:00
+lastmod: 2020-10-06T08:49:15+00:00
 draft: false
 images: []
 ---
