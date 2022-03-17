@@ -19,6 +19,8 @@ toc: true
 řáda hledácích portálů již přidala filtr na práci vhodnou pro uprchlíky.
 
 ### Stránky pro hledání práce
+
+* **[www.itforspace.com](https://www.itforspace.com)** - Napište nám, pokud hledáte práci v IT. Mluvíme česky, rusky, ukrrajinsky, anglicky. Máme kontakty v IT a jsme česká firma. Email [robota@itforspace.com](mailto:robota@itforspace.com)
 * **[www.prace.cz](https://www.prace.cz/)**
 * **[www.jobs.cz](https://www.jobs.cz/)**
 * **[www.startupjobs.cz](https://www.startupjobs.cz/)**
