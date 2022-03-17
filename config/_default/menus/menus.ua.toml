@@ -17,7 +17,6 @@ name = "Церква ..."
 [[main]]
   name = "Гроші"
   weight = 30
-  identifier = "finance"
   url = "/docs/finance/general/"
 
 [[main]]
@@ -48,7 +47,6 @@ name = "Церква ..."
 [[main]]
   name = "Чеські ЗМІ"
   weight = 45
-  identifier = "finance"
   url = "/docs/czech-news/"
 
 [[main]]
