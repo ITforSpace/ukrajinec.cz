@@ -5,7 +5,7 @@
       <h1 class="mt-0">{{ i18n "wellcome-title" }}</h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
-      <p class="lead">{{ .Params.lead | safeHTML }}</p>
+      <p class="lead">{{ i18n "wellcome-description" }}</p>
       <a class="btn btn-primary btn-lg px-4 mb-2"
         href="docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/ "
         role="button">{{ i18n "wellcome-action" }}</a>
@@ -30,8 +30,7 @@
       </div>
       <div class="col-lg-5">
         <h2 class="h4">{{ i18n "wellcome-official-title" }}</h2>
-        <p>{{ i18n "wellcome-official-description1" }} <a
-            href="https://www.mvcr.cz/clanek/ua.aspx">{{ i18n
+        <p>{{ i18n "wellcome-official-description1" }} <a href="https://www.mvcr.cz/clanek/ua.aspx">{{ i18n
             "wellcome-official-description2" }}</a> {{ i18n
           "wellcome-official-description3" }}</p>
       </div>
@@ -63,7 +62,7 @@
         <h2 class="h4">{{ i18n "welcome-transport-title" }}</h2>
         <p>{{ i18n "welcome-transport-description" }} <a href='{{
             i18n "welcome-transport-url" }}'>{{
-          i18n "wellcome-detail" }}</a>
+            i18n "wellcome-detail" }}</a>
         </p>
       </div>
 
@@ -71,7 +70,7 @@
         <h2 class="h4">{{ i18n "welcome-accommodation-title" }}</h2>
         <p>{{ i18n "welcome-accommodation-description" }} <a href='{{
             i18n "welcome-accommodation-url" }}'>{{
-          i18n "wellcome-detail" }}</a>
+            i18n "wellcome-detail" }}</a>
         </p>
       </div>
 
