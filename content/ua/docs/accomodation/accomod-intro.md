@@ -39,11 +39,12 @@ toc: true
 аренда квартир на довгий срок. Скорій всього з вас потребують залог в розмірі 1-3 арендної плати. (як уже договоритеся)/ плюс провізія ріелтору.
 
 * :bangbang: **[Sreality](https://www.sreality.cz/ru/search/apartments) - Російськомовна версія чеського сайту** :bangbang:
-
-*  [Bezrealitky](https://www.bezrealitky.cz) - без ріелтора. обяви дають люди. тут уж як домовитеся.
-
-*  [Bazoš](https://reality.bazos.cz/pronajmu/byt/)
-
+* [ulovdomov.cz](https://www.ulovdomov.cz/vyhledavani/pronajem/%C4%8Cesk%C3%A1%20republika/pomoc-ukrajine)
+* [Bezrealitky](https://www.bezrealitky.cz) - без ріелтора. обяви дають люди. тут уж як домовитеся.
+* [Bazoš](https://reality.bazos.cz/pronajmu/byt/)
+* [reality.idnes.cz](reality.idnes.cz)
+* [hyperreality.cz](hyperreality.cz)
+* [www.remax-czech.cz](https://www.remax-czech.cz/reality/vyhledavani/?sale=2#filter)
 
 #### Короткочасні аренди
 
@@ -51,3 +52,10 @@ toc: true
 * [AirBnb](https://www.airbnb.com.ua/?_set_bev_on_new_domain=1646918234_MDU1YTY0Mjk4NTY4)
 * [Penzion.cz](https://www.penzion.cz)
 * [Гостель з Орел&Решка (той дещевий в центрі)](https://www.czech-inn.com)
+
+#### Жилье, квартиры, общежития, места для ночевки беженцев
+* [https://www.host4ukraine.com/](https://www.host4ukraine.com/)
+* [https://www.shelter4ua.com/uame](https://www.shelter4ua.com/uame)
+* [https://kdemohupomoci.cz/](https://kdemohupomoci.cz/)
+* [https://mapahelp.me/](https://mapahelp.me/)
+* [https://icanhelp.host/](https://icanhelp.host/)

@@ -16,7 +16,6 @@ name = "Церковь ..."
 [[main]]
   name = "Деньги"
   weight = 30
-  identifier = "finance"
   url = "/docs/finance/general/"
 
 [[main]]
@@ -24,15 +23,31 @@ name = "Церковь ..."
   url = "/docs/transportation/general/"
   weight = 40
 
+
 [[main]]
   name = "Врачи"
   url = "/docs/doctors/general/"
   weight = 41
 
 [[main]]
+  name = "Хобби"
+  url = "/docs/doctors/"
+  weight = 42
+  
+[[main]]
   name = "Школа и курсы"
   url = "/docs/education/czech/"
-  weight = 42
+  weight = 43
+
+[[main]]
+  name = "Благотворительность"
+  url = "/docs/charity/"
+  weight = 44
+
+[[main]]
+  name = "Чешские СМИ"
+  weight = 45
+  url = "/docs/czech-news/"
 
 [[main]]
   name = "РАБОТА"
