@@ -52,3 +52,10 @@ toc: true
 * [AirBnb](https://www.airbnb.com.ua/?_set_bev_on_new_domain=1646918234_MDU1YTY0Mjk4NTY4)
 * [Penzion.cz](https://www.penzion.cz)
 * [Хостел из Орла&Решки (тот дешёвый в центре)](https://www.czech-inn.com)
+
+#### Жилье, квартиры, общежития, места для ночевки беженцев
+* [https://www.host4ukraine.com/](https://www.host4ukraine.com/)
+* [https://www.shelter4ua.com/uame](https://www.shelter4ua.com/uame)
+* [https://kdemohupomoci.cz/](https://kdemohupomoci.cz/)
+* [https://mapahelp.me/](https://mapahelp.me/)
+* [https://icanhelp.host/](https://icanhelp.host/)
