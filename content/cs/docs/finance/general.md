@@ -12,6 +12,9 @@ menu:
 weight: 130
 toc: true
 ---
+
+Je možné si otevřít účet v obou bankach a dostat od obou finanční pomoc. Firma [ITforSpace, s.r.o.](https://www.itforspace.com/) tuhle informaci ověřovala v Raiffeisen Bank, kde má bankovní účet.
+
 ## Banka ČSOB
 #### Balíček pro příchozí z Ukrajiny
 
