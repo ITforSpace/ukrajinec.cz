@@ -1,7 +1,7 @@
 ---
-title: "Загальна інформація"
-description: "Можливості фінансової допомоги"
-lead: "Можливості фінансової допомоги від держави та інших."
+title: "Jak na finance"
+description: "Finance"
+lead: "Finance. Jak zařídit účet."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -12,12 +12,23 @@ menu:
 weight: 130
 toc: true
 ---
-## Банк ČSOB
-#### ПАКЕТНА ПРОПОЗИЦІЯ ДЛЯ ГРОМАДЯН УКРАЇНИ
+## Banka ČSOB
+#### Balíček pro příchozí z Ukrajiny
 
-
-* Зняття коштів з українських рахунків  без комісії
-* Рахунок із фінансовою допомогою 2 500 чеських крон
-* Безкоштовний валютний рахунок та безкоштовні депозити
+* bezplatné vedení účtu
+* pro otevření stačí biometrický pas nebo speciální vizum
+* pomoc 2 500 Kč pro začátek
 
 [https://www.csob.cz/portal/ukrajina/balicek-pro-prichozi](https://www.csob.cz/portal/ukrajina/balicek-pro-prichozi)
+
+
+## Raiffeisen Bank
+
+#### Běžného účtu pro občany z Ukrajiny
+* účet zdarma
+* výbery z bankomatu zdarma
+* bankovníctví v ukrajinštině
+* odchozí platby na účty ukrajinských bank máte ZDARMA
+* finanční příspěvek 2 500 Kč
+
+[https://www.rb.cz/pomahame-ukrajine/bezny-ucet](https://www.rb.cz/pomahame-ukrajine/bezny-ucet)

@@ -6,16 +6,23 @@
 
 [[docs]]
   name = "Work"
-  weight = 60
+  weight = 20
   identifier = "work"
   url = "/docs/work/"
 
 
  [[docs]]
    name = "Finance"
-   weight = 70
+   weight = 30
    identifier = "finance"
    url = "/docs/finance/"
+
+
+[[docs]]
+name = "Education"
+weight = 40
+identifier = "edu"
+url = "/docs/edu/"
 
 [[guide]]
   name = "Lorem"
@@ -30,7 +37,7 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-name = "Перші кроки"
+name = "Co dělát"
   url = "/docs/prologue/introduction/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10

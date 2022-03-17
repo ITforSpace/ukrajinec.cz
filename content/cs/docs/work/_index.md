@@ -1,6 +1,6 @@
 ---
-title: "Праця"
-description: "Help Doks."
+title: "Práce"
+description: "Jak najít práci v ČR."
 lead: ""
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00
