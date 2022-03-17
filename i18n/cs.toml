@@ -1,5 +1,8 @@
 [wellcome-title]
     other = "Vítejte v České republice!"
+    
+[wellcome-description]
+    other="Informace pro ukrajinské občany v ČR v souvislosti s konfliktem na Ukrajině"    
 
 [church-helps-title]
    other = "Duchovní pomoc"
