@@ -26,17 +26,17 @@ name = "Církev ..."
 
 [[main]]
   name = "Lékaři"
-  url = "/docs/doctors/general/"
+  url = "/docs/doctors/"
   weight = 41
 
 [[main]]
   name = "Volný čas"
-  url = "/docs/doctors/"
+  url = "/docs/relax/"
   weight = 42
   
 [[main]]
   name = "Škola a kurzy"
-  url = "/docs/education/czech/"
+  url = "/docs/education/"
   weight = 43
 
 [[main]]
