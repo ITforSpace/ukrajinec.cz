@@ -33,7 +33,7 @@ name = "Церковь ..."
   name = "Хобби"
   url = "/docs/doctors/"
   weight = 42
-  
+
 [[main]]
   name = "Школа и курсы"
   url = "/docs/education/czech/"
@@ -53,6 +53,11 @@ name = "Церковь ..."
   name = "РАБОТА"
   url = "/docs/work/intro/"
   weight = 50
+
+[[main]]
+  name = "Фразы на чешском"
+  url = "/docs/common-phrases/cz-common-phrases/"
+  weight = 51
 
 [[social]]
   name = "GitHub"
