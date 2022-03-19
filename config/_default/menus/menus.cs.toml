@@ -55,7 +55,7 @@ name = "Církev ..."
   weight = 50
 
 [[main]]
-  name = "České fraze"
+  name = "Ukrajinské a ruské fraze"
   url = "/docs/common-phrases/cz-common-phrases/"
   weight = 51
 
