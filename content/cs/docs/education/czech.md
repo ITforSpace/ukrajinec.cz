@@ -19,3 +19,6 @@ toc: true
 * [CIC - КУРСЫ ЧЕШСКОГО ЯЗЫКА](https://www.cicops.cz/ru/kurzy)
 * [CZECH ME UP - КУРСЫ ЧЕШСКОГО ЯЗЫКА](https://czechmeup.cz/pomozhem-vmeste)
 * [Пчелка для украинцев БЕСПЛАТНО](https://www.vcelka.cz/vcelka-pro-ukrajinu) - В рамках оказания помощи беженцам ради укрепления их способности вписаться в нормальную жизнь в Чешской Республике (или других странах), Пчелка сделала специальное приложение БЕСПЛАТНО для всех украинцев.
+* [Český jazyk s učitelem] (https://www.facebook.com/czviktorie) - Naučte se mluvit český rychle a podle vaších potřeb, příležitost
+  studia individuálně nebo v malých skupinách. Možnost studovat spolu s rodinou. Existují také permanentky, které jsou cenově výhodné. Čeština pro pohodlný život v Česku od nuly.
+  Kontaktujte odkazem nebo telefonicky + 420 774 188 392, Viktorie.
