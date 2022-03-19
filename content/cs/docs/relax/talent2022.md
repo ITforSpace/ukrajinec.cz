@@ -1,7 +1,7 @@
 ---
-title: "Текущие даты кастингов для шоу Česko Slovensko має талант 2022"
-description: "Украинцы и украинки приходим на кастинг!"
-lead: "Украинцы и украинки приходим на кастинг!"
+title: "Aktuální termíny castingů do show Česko Slovensko má 2022 talent"
+description: ""
+lead: ""
 
 
 date: 2020-10-06T08:48:57+00:00
@@ -21,4 +21,4 @@ toc: true
 
 
 
-**Подробно на [https://www.iprima.cz/csmt/hlaste-se-do-show-cesko-slovensko-ma-talent-2022](https://www.iprima.cz/csmt/hlaste-se-do-show-cesko-slovensko-ma-talent-2022)**
+**Detaily na [https://www.iprima.cz/csmt/hlaste-se-do-show-cesko-slovensko-ma-talent-2022](https://www.iprima.cz/csmt/hlaste-se-do-show-cesko-slovensko-ma-talent-2022)**
