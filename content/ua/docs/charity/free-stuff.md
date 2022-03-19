@@ -17,4 +17,5 @@ toc: true
 * [https://www.potravinovebanky.cz/potravinove-banky-v-cr](https://www.potravinovebanky.cz/potravinove-banky-v-cr) - Продовольчі банки в Чехії
 * [satnikpraha.cz](https://www.satnikpraha.cz/kontakty/) - Безкоштовний одяг у Празі
 * [nevyhazujto.cz (не викидайте його)](https://www.nevyhazujto.cz/) - Люди пропонують речі людям безкоштовно
+* [bazos.cz (фільтр: ціна 0 крон)](https://www.bazos.cz/search.php?cenado=0)
 * [https://nabytkovabankajck.cz/ukrajina/](https://nabytkovabankajck.cz/ukrajina/) - Мені потрібно облаштувати квартиру для біженців з України безкоштовно

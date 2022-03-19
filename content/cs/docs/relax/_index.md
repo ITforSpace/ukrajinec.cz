@@ -1,5 +1,5 @@
 ---
-title : "Хобби"
+title : "Volný čas"
 description: ""
 lead: ""
 date: 2022-03-15T08:48:45+00:00

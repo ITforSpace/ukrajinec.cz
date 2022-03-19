@@ -1,6 +1,6 @@
 ---
-title: "КУРСЫ ЧЕШСКОГО ЯЗЫКА"
-description: "Информация про образование и курсы в Чехии."
+title: "Kurzy českého jazyka běžence z Ukrajiny"
+description: "Školy a kurzy pro uprchlíky z Ukrajiny v České republice"
 lead: ""
 date: 2022-03-11T08:49:15+00:00
 lastmod: 2022-03-11T08:49:15+00:00

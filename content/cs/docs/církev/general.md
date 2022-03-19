@@ -14,4 +14,4 @@ toc: true
 ---
 ## Odkazy
 
-* [Církev Křesťanů Víry Evangelické (letniční)](https://www.kvep.cz/)
+* [Církev Křesťanů Víry Evangelické (letniční, česky/rusky/ukrajinsky... mluvící)](https://www.kvep.cz/)

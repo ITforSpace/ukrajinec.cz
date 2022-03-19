@@ -1,5 +1,5 @@
 ---
-title: "Образование в Чехии"
+title: "Vzdělání v České republice pro běžence z Ukrajiny"
 description: "Информация про чешскую систему образования."
 lead: ""
 date: 2022-03-11T08:49:15+00:00
