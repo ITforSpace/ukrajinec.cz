@@ -33,7 +33,7 @@ name = "Církev ..."
   name = "Volný čas"
   url = "/docs/relax/"
   weight = 42
-  
+
 [[main]]
   name = "Škola a kurzy"
   url = "/docs/education/"
@@ -53,6 +53,11 @@ name = "Církev ..."
   name = "Práce"
   url = "/docs/work/intro/"
   weight = 50
+
+[[main]]
+  name = "České fraze"
+  url = "/docs/common-phrases/cz-common-phrases/"
+  weight = 51
 
 [[social]]
   name = "GitHub"
